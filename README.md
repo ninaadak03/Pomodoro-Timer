@@ -15,7 +15,7 @@ This Pomodoro Timer offers a simple, intuitive interface to help you practice th
 - Responsive design that works on both desktop and mobile devices.
 - Minimalist and clean UI built with HTML, CSS, and JavaScript.
 
-##Technologies Used
+## Technologies Used
 - **HTML**: Structure and content of the webpage.
 - **CSS**: Styling the webpage to make it visually appealing.
 - **JavaScript**: Timer functionality, including start, pause, and reset actions.
